@@ -26,7 +26,7 @@ YOLO is an extremely fast real time multi object detection algorithm. In this pr
 ![](images/3.png)
 
 ### Average Precision
-![](images/15.png)
+![](images/5.png)
 
 I observed that all the different components of losses go down in parallel. The loss came down to : range 7-15 , over 40 epochs, with a learning rate of 10e-4. 
 
